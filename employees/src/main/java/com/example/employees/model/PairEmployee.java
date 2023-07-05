@@ -9,10 +9,10 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class PairEmployee {
 
-    Integer empId1;
-    Integer empId2;
-    Integer  projectId;
-    Integer daysWorked;
+    int empId1;
+    int empId2;
+    String  projectId;
+    int daysWorked;
 
     
 }

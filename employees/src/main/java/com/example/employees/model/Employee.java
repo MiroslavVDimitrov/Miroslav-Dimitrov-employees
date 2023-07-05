@@ -12,8 +12,8 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class Employee{
-    Integer empId;
-    Integer projectId;
+    int empId;
+    int projectId;
     LocalDate dateFrom;
     LocalDate dateTo;
 
